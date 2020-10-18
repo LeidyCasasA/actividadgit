@@ -1,0 +1,4 @@
+function mensajeArtista() {
+
+    alert ("Listo");
+}
